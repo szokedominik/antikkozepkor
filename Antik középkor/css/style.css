@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(#ccc, #fff);
+    font: 14px sans-serif;
+    padding: 20px;
+  }
+  .letter {
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    margin: 26px auto 0;
+    width: 1000px;
+    height: 1000px;
+    padding: 24px;
+    position: relative;
+    text-align: center;
+  }
+  .header {
+    padding: 60px;
+    text-align: center;
+    background: burlywood;
+    color: white;
+    font-size: 30px;
+    width: 1100px;
+    height: 250px;
+    border: solid 3px white;
+    margin: auto;
+  }
+  .header h1, h2, h3, p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+  }
+  .letter p {
+    font-size: 23px;
+  }
